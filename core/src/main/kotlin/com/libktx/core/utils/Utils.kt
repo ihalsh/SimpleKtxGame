@@ -1,4 +1,4 @@
-package com.libktx.game.utils
+package com.libktx.core.utils
 
 enum class SoundAssets(val path: String) {
     Drop("sounds/drop.wav")
