@@ -1,0 +1,75 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Android\LibGDX\SimpleKtxGame\android\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from D:\Android\LibGDX\SimpleKtxGame\android\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from D:\Android\LibGDX\SimpleKtxGame\android\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from D:\Android\LibGDX\SimpleKtxGame\android\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from D:\Android\LibGDX\SimpleKtxGame\android\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from D:\Android\LibGDX\SimpleKtxGame\android\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from D:\Android\LibGDX\SimpleKtxGame\android\src\main\AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from D:\Android\LibGDX\SimpleKtxGame\android\src\main\AndroidManifest.xml:3:11-39
+		INJECTED from D:\Android\LibGDX\SimpleKtxGame\android\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\LibGDX\SimpleKtxGame\android\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Android\LibGDX\SimpleKtxGame\android\src\main\AndroidManifest.xml
+		ADDED from D:\Android\LibGDX\SimpleKtxGame\android\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from D:\Android\LibGDX\SimpleKtxGame\android\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Android\LibGDX\SimpleKtxGame\android\src\main\AndroidManifest.xml
+		ADDED from D:\Android\LibGDX\SimpleKtxGame\android\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from D:\Android\LibGDX\SimpleKtxGame\android\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Android\LibGDX\SimpleKtxGame\android\src\main\AndroidManifest.xml:2:11-69
+uses-feature#0x00020000
+ADDED from D:\Android\LibGDX\SimpleKtxGame\android\src\main\AndroidManifest.xml:5:5-7:34
+	android:glEsVersion
+		ADDED from D:\Android\LibGDX\SimpleKtxGame\android\src\main\AndroidManifest.xml:6:9-41
+	android:required
+		ADDED from D:\Android\LibGDX\SimpleKtxGame\android\src\main\AndroidManifest.xml:7:9-32
+application
+ADDED from D:\Android\LibGDX\SimpleKtxGame\android\src\main\AndroidManifest.xml:9:5-25:19
+	android:label
+		ADDED from D:\Android\LibGDX\SimpleKtxGame\android\src\main\AndroidManifest.xml:13:9-41
+	android:appCategory
+		ADDED from D:\Android\LibGDX\SimpleKtxGame\android\src\main\AndroidManifest.xml:12:9-35
+	android:allowBackup
+		ADDED from D:\Android\LibGDX\SimpleKtxGame\android\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from D:\Android\LibGDX\SimpleKtxGame\android\src\main\AndroidManifest.xml:14:9-40
+	android:isGame
+		ADDED from D:\Android\LibGDX\SimpleKtxGame\android\src\main\AndroidManifest.xml:11:9-30
+activity#com.libktx.android.AndroidLauncher
+ADDED from D:\Android\LibGDX\SimpleKtxGame\android\src\main\AndroidManifest.xml:15:9-24:20
+	android:screenOrientation
+		ADDED from D:\Android\LibGDX\SimpleKtxGame\android\src\main\AndroidManifest.xml:18:13-50
+	android:label
+		ADDED from D:\Android\LibGDX\SimpleKtxGame\android\src\main\AndroidManifest.xml:17:13-45
+	android:configChanges
+		ADDED from D:\Android\LibGDX\SimpleKtxGame\android\src\main\AndroidManifest.xml:19:13-107
+	android:name
+		ADDED from D:\Android\LibGDX\SimpleKtxGame\android\src\main\AndroidManifest.xml:16:13-62
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Android\LibGDX\SimpleKtxGame\android\src\main\AndroidManifest.xml:20:13-23:29
+action#android.intent.action.MAIN
+ADDED from D:\Android\LibGDX\SimpleKtxGame\android\src\main\AndroidManifest.xml:21:17-68
+	android:name
+		ADDED from D:\Android\LibGDX\SimpleKtxGame\android\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Android\LibGDX\SimpleKtxGame\android\src\main\AndroidManifest.xml:22:17-76
+	android:name
+		ADDED from D:\Android\LibGDX\SimpleKtxGame\android\src\main\AndroidManifest.xml:22:27-74
+uses-sdk
+INJECTED from D:\Android\LibGDX\SimpleKtxGame\android\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Android\LibGDX\SimpleKtxGame\android\src\main\AndroidManifest.xml
+INJECTED from D:\Android\LibGDX\SimpleKtxGame\android\src\main\AndroidManifest.xml
+INJECTED from D:\Android\LibGDX\SimpleKtxGame\android\src\main\AndroidManifest.xml
+INJECTED from D:\Android\LibGDX\SimpleKtxGame\android\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Android\LibGDX\SimpleKtxGame\android\src\main\AndroidManifest.xml
+		ADDED from D:\Android\LibGDX\SimpleKtxGame\android\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\LibGDX\SimpleKtxGame\android\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Android\LibGDX\SimpleKtxGame\android\src\main\AndroidManifest.xml
+		ADDED from D:\Android\LibGDX\SimpleKtxGame\android\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\LibGDX\SimpleKtxGame\android\src\main\AndroidManifest.xml

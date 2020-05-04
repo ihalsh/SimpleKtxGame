@@ -1,0 +1,35 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Android\\LibGDX\\SimpleKtxGame\\android\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\Android\\LibGDX\\SimpleKtxGame\\android\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "50",
+                        "endOffsets": "101"
+                    }
+                },
+                {
+                    "source": "D:\\Android\\LibGDX\\SimpleKtxGame\\android\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "106",
+                        "endLines": "10",
+                        "endColumns": "12",
+                        "endOffsets": "570"
+                    }
+                }
+            ]
+        }
+    ]
+}

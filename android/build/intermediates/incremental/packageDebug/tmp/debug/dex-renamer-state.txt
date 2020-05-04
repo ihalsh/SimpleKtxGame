@@ -1,0 +1,4 @@
+#Sat May 02 22:33:12 EEST 2020
+base.0=D\:\\Android\\LibGDX\\SimpleKtxGame\\android\\build\\intermediates\\dex\\debug\\out\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
